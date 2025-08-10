@@ -13,7 +13,7 @@ A mini project that performes simple Arthematic operations with user interaction
 
  ## Technologies Used
 
- - HTML,CSS,JAVA SCRIP
+ - HTML,CSS,JAVA SCRIPT
  - Functions,Events,Conditional Statements
 
 
